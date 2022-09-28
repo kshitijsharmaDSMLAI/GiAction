@@ -1,6 +1,0 @@
-create cicd pipeline on harness.
-
-
-application deployment
-
-migrate saleforce to herness
