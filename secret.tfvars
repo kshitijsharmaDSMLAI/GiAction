@@ -1,2 +1,2 @@
-token = "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"
+token = ""
 organization = "AGSPLTD"
